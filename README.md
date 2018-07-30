@@ -27,8 +27,6 @@ Esta prova tem como objetivo atestar os conhecimentos do candidato para desenvol
 * Copiar inteiro do amigo.
 * Pedir para outra pessoa fazer por você.
 * Códigos lentos.
-* Não ser mobile-friendly.
-* Descaracterizar o layout.
 * Código malfeito ou mal estruturado, somente variaveis estaticas, publicas e etc...
 
 ### Dúvidas
